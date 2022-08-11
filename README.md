@@ -6,7 +6,7 @@
     - [x] STREAM MAP
     - [x] STREAM FILTER
     - [x] FOREACH
-- [ ] flightTicketFromLiat metodundaki flightlist dizisi List'e çevrilecek stream kullanılarak
+- [ ] flightTicketFromLiast metodundaki flightlist dizisi List'e çevrilecek stream kullanılarak
 - [ ] checkListForSearch deki for döngüleri yerine stream kullanılacak
 - [ ] Assertequals Key'e göre valueler getirip assertşion sağlanacak
 
